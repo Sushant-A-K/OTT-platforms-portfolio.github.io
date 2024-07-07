@@ -1,6 +1,3 @@
-# OTT-platforms-portfolio.github.io
-
-
 # OTT Portfolio
 
 <dl>
