@@ -11,11 +11,9 @@
 <dd>KLE Technological University, Hubballi</dd>
 </dl>
 
-* * *
+* * 
 
 > What happens in OTT platfporms services
->
-> AD
 
 #### Note:
 This page hosts:
