@@ -1,5 +1,15 @@
 # OTT Platforms Portfolio
+## Table of Contents
 
+- [Introduction](#introduction)
+- [Objectives](#objectives)
+- [System Design](#system-design)
+  - [Key Users](#key-users)
+  - [Architecture](#architecture)
+  - [Process](#process)
+- [Business Cases](#business-cases)
+- [Business Cases with Data Structures and Algorithms](#business-cases-with-data-structures-and-algorithms)
+- [Efficiency Analysis](#efficiency-analysis)
 ## Introduction
 Over-The-Top (OTT) platforms have revolutionized the way we consume media by providing content directly over the internet. Unlike traditional broadcasting, OTT platforms allow users to access a wide range of content, including movies, TV shows, and live events, on-demand. This shift has empowered viewers with greater control over what, when, and how they watch content. Major OTT players like Netflix, Amazon Prime Video, and Disney+ have set new standards for content delivery, quality, and user experience. Programming plays a critical role in the operation and evolution of OTT platforms. It involves the development of algorithms and data structures to manage vast libraries of content and provide seamless, personalized user experiences.
 
@@ -164,3 +174,5 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 16. **Transcoding**
     - **Algorithm:** Transcoding algorithms like FFmpeg
     - **Description:** Converts media content into different formats to ensure compatibility across various devices and bandwidth conditions.
+
+## Efficiency Analysis
