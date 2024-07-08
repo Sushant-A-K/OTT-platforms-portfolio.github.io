@@ -12,6 +12,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 - **Advertisers:** Businesses placing ads on the platform targeting specific user segments.
 
 ### Architecture:
+![plot](./hld.avif)
 #### Client Layer:
 - **Devices:** Smart TVs, laptops, mobile phones, tablets, etc.
 - **User Interface (UI):** Responsive and intuitive UI for content browsing, searching, and playback.
