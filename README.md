@@ -1,4 +1,15 @@
 # OTT Platforms Portfolio
+<dl>
+<dt>Course Name</dt>
+<dd>Algorithmic Problem Solving</dd>
+<dt>Course Code</dt>
+<dd>23ECSE309</dd>
+<dt>Name</dt>
+<dd>Sushant A Kulkarni</dd>
+<dt>University</dt>
+<dd>KLE Technological University, Hubballi</dd>
+</dl>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
