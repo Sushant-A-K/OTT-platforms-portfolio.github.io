@@ -197,11 +197,16 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 **Notes:**
 - **SLL (Singly Linked List)**: Operations are listed for worst-case complexities.
 - **DFS and BFS**: V is the number of vertices, and E is the number of edges.
-- **Dijkstra's Algorithm**: Depends on the implementation (e.g., using a Fibonacci heap can improve the time complexity for dense graphs).
 - **K-means Clustering**: I is the number of iterations until convergence, and d is the dimensionality of the data.
 - **Interval Scheduling Algorithm**: Assumes sorting intervals by their end times.
 - **LRU Cache**: Capacity denotes the maximum number of items the cache can hold.
 
 
 ## References
+
+1. <a href="https://www.geeksforgeeks.org/system-design-netflix-a-complete-architecture/">**System Design Netflix | A Complete Architecture**</a>
+2. <a href="https://dev.to/binoy123/decoding-ott-unraveling-the-architecture-behind-seamless-streaming-36fa">**Decoding OTT: Unraveling the Architecture Behind Seamless Streaming**</a>
+3. <a href="https://medium.com/@digital.vajidkhan/ott-platform-development-choosing-the-right-technology-stack-ad9b82b270d4">**OTT Platform Development: Choosing the Right Technology Stack**</a>
+4. <a href="https://medium.com/@saurabh.codes/system-design-of-youtubes-architecture-ott-over-the-top-platforms-have-increased-video-8326d395f928">**System Design of YouTube’s Architecture**</a>
+
 
