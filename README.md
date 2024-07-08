@@ -1,22 +1,10 @@
----
-layout: default
-title: Home
----
-<dl>
-<dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>23ECSE309</dd>
-<dt>Name</dt>
-<dd>Sushant A Kulkarni</dd>
-<dt>University</dt>
-<dd>KLE Technological University, Hubballi</dd>
-</dl>
+# OTT Platforms Portfolio
 
 ## Introduction
 Over-The-Top (OTT) platforms have revolutionized the way we consume media by providing content directly over the internet. Unlike traditional broadcasting, OTT platforms allow users to access a wide range of content, including movies, TV shows, and live events, on-demand. This shift has empowered viewers with greater control over what, when, and how they watch content. Major OTT players like Netflix, Amazon Prime Video, and Disney+ have set new standards for content delivery, quality, and user experience. Programming plays a critical role in the operation and evolution of OTT platforms. It involves the development of algorithms and data structures to manage vast libraries of content and provide seamless, personalized user experiences.
 
 ## System Design
+
 ### Key Users:
 - **End Users:** Individuals using various devices to access and stream content.
 - **Content Providers:** Entities uploading and managing content on the platform.
