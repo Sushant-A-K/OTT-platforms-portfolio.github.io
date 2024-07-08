@@ -102,11 +102,11 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 
 2. **Search Optimization**
    - **Data Structure:** Trie
-   - **Algorithm:** Trie traversal algorithms (like DFS or BFS)
+   - **Algorithm:** Trie traversal algorithms (like <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/dfs.cpp">DFS</a> or <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/bfs.cpp">BFS</a>)
    - **Description:** Optimizes search queries to quickly retrieve relevant results.
 
 3. **User Watch History Management**
-   - **Data Structure:** Singly Linked List
+   - **Data Structure:** <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/sll.c">Singly Linked List</a>
    - **Algorithm:** Insertion and deletion operations for maintaining watch history
    - **Description:** Tracks and manages the sequence of content watched by users.
 
