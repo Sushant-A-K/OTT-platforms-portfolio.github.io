@@ -3,6 +3,11 @@
 ## Introduction
 Over-The-Top (OTT) platforms have revolutionized the way we consume media by providing content directly over the internet. Unlike traditional broadcasting, OTT platforms allow users to access a wide range of content, including movies, TV shows, and live events, on-demand. This shift has empowered viewers with greater control over what, when, and how they watch content. Major OTT players like Netflix, Amazon Prime Video, and Disney+ have set new standards for content delivery, quality, and user experience. Programming plays a critical role in the operation and evolution of OTT platforms. It involves the development of algorithms and data structures to manage vast libraries of content and provide seamless, personalized user experiences.
 
+## Objectives
+- Identify Key Functionalities of OTT Platforms.
+- Study Algorithms Utilized in OTT Platforms.
+- Conduct Efficiency Analysis of OTT Algorithms.
+
 ## System Design
 
 ### Key Users:
@@ -61,11 +66,6 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 2. **Analysis:** Data is analyzed to gain insights into user behavior, content popularity, and system performance.
 3. **Optimization:** Continuous improvements are made to enhance user experience, streaming quality, and system efficiency.
 
-## Objectives
-- Identify Key Functionalities of OTT Platforms.
-- Study Algorithms Utilized in OTT Platforms.
-- Conduct Efficiency Analysis of OTT Algorithms.
-
 ## Business Cases
 1. **Content Recommendation Engine**
 2. **Search Optimization**
@@ -104,6 +104,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
    - **Data Structure:** Decision Tree
    - **Algorithm:** Decision tree algorithms (like ID3 or C4.5)
    - **Description:** Analyzes user data to recommend optimal subscription plans based on usage patterns.
+     ![plot](./sub.png)
 
 5. **Content Delivery Network (CDN) Optimization**
    - **Data Structure:** Min-Heap (for prioritizing content delivery)
@@ -149,6 +150,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
     - **Data Structure:** Priority Queue (for managing notification priorities)
     - **Algorithm:** Notification scheduling algorithms (like Delayed Notification Queue)
     - **Description:** Sends timely notifications to users based on their preferences and activities.
+      ![plot](./notif.avif)
 
 14. **Recently Viewed Content**
     - **Data Structure:** Stack (for storing recently viewed items)
