@@ -134,16 +134,16 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 
 5. **Content Delivery Network (CDN) Optimization**
    - **Data Structure:** Min-Heap (for prioritizing content delivery)
-   - **Algorithm:** Dijkstra's Algorithm (for shortest path in CDN routing)
+   - **Algorithm:** <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/dijkstra's.c">Dijkstra's Algorithm</a> (for shortest path in CDN routing)
    - **Description:** Optimizes CDN resource allocation and routing for efficient content delivery.
 
 6. **Ad Placement Strategy**
    - **Data Structure:** Interval Tree (for managing ad slots)
-   - **Algorithm:** Interval scheduling algorithms (like Greedy Algorithm)
+   - **Algorithm:** <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/scheduling.py">Interval scheduling algorithms</a> (like Greedy Algorithm)
    - **Description:** Places ads strategically to maximize revenue based on user engagement and content relevance.
 
 7. **Content Popularity Prediction**
-   - **Data Structure:** Hash Map (for counting content views)
+   - **Data Structure:** <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/hash-map.cpp">Hash Map</a> (for counting content views)
    - **Algorithm:** Exponential Smoothing or Time Series Analysis
    - **Description:** Predicts future popularity of content based on historical viewing data.
 
@@ -159,7 +159,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 
 10. **Content Caching**
     - **Data Structure:** LRU Cache (Least Recently Used)
-    - **Algorithm:** LRU Cache eviction policy
+    - **Algorithm:** <a href="lru.py">LRU</a> Cache eviction policy
     - **Description:** Stores frequently accessed content closer to users for faster retrieval and reduced server load.
 
 11. **User Session Management**
