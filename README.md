@@ -176,3 +176,25 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
     - **Description:** Converts media content into different formats to ensure compatibility across various devices and bandwidth conditions.
 
 ## Efficiency Analysis
+
+| Algorithm / Data Structure              | Time Complexity (Worst Case)           | Space Complexity (Worst Case)    |
+|-----------------------------------------|----------------------------------------|----------------------------------|
+| Singly Linked List (SLL)                | Access: O(n)<br>Search: O(n)<br>Insert: O(1)<br>Delete: O(1) | O(n)                           |
+| Depth-First Search (DFS)                | O(V + E)                               | O(V)                             |
+| Breadth-First Search (BFS)              | O(V + E)                               | O(V)                             |
+| Dijkstra's Algorithm                    | O((V + E) log V)                       | O(V)                             |
+| K-means Clustering                      | O(n * k * I * d)<br>where:<br>n = number of data points<br>k = number of clusters<br>I = number of iterations<br>d = dimensionality of data | O(n * k)                         |
+| k-Nearest Neighbors (kNN)               | O(n * d)<br>where:<br>n = number of data points<br>d = dimensionality of data | O(n)                             |
+| Round Robin Scheduling                  | O(1) per time quantum                  | O(n)                             |
+| Stack (Push and Pop operations)         | O(1) for both push and pop             | O(n)                             |
+| Interval Scheduling Algorithm           | O(n log n)                             | O(n)                             |
+| Hash Map (Average Case)                 | Insert: O(1)<br>Search: O(1)<br>Delete: O(1) | O(n)                             |
+| Least Recently Used (LRU) Cache         | O(1) for both get and put operations   | O(capacity)                      |
+
+**Notes:**
+- **SLL (Singly Linked List)**: Operations are listed for worst-case complexities.
+- **DFS and BFS**: V is the number of vertices, and E is the number of edges.
+- **Dijkstra's Algorithm**: Depends on the implementation (e.g., using a Fibonacci heap can improve the time complexity for dense graphs).
+- **K-means Clustering**: I is the number of iterations until convergence, and d is the dimensionality of the data.
+- **Interval Scheduling Algorithm**: Assumes sorting intervals by their end times.
+- **LRU Cache**: Capacity denotes the maximum number of items the cache can hold.
