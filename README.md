@@ -15,9 +15,6 @@
 - [Introduction](#introduction)
 - [Objectives](#objectives)
 - [System Design](#system-design)
-  - [Key Users](#key-users)
-  - [Architecture](#architecture)
-  - [Process](#process)
 - [Business Cases](#business-cases)
 - [Business Cases with Data Structures and Algorithms](#business-cases-with-data-structures-and-algorithms)
 - [Efficiency Analysis](#efficiency-analysis)
@@ -166,7 +163,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
     - **Description:** Stores frequently accessed content closer to users for faster retrieval and reduced server load.
 
 11. **User Session Management**
-    - **Data Structure:** Hash Table (for storing session IDs and user details)
+    - **Data Structure:** <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/hash-table.c">Hash Table</a> (for storing session IDs and user details)
     - **Algorithm:** Session expiration and renewal algorithms
     - **Description:** Manages user sessions to maintain login state and personalized experiences.
 
@@ -192,14 +189,14 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
     - **Description:** Enables seamless streaming across different devices while maintaining playback synchronization.
 
 17. **Transcoding**
-    - **Algorithm:** Transcoding algorithms like FFmpeg
+    - **Algorithm:** Transcoding algorithms like <a href="https://ffmpeg.org/">FFmpeg</a>
     - **Description:** Converts media content into different formats to ensure compatibility across various devices and bandwidth conditions.
 
 ## Efficiency Analysis
 
 | Algorithm / Data Structure              | Time Complexity (Worst Case)           | Space Complexity (Worst Case)    |
 |-----------------------------------------|----------------------------------------|----------------------------------|
-| Singly Linked List (SLL)                | Access: O(n)<br>Search: O(n)<br>Insert: O(1)<br>Delete: O(1) | O(n)                           |
+| Singly Linked List (SLL)                | Access: O(n)<br>Search: O(n)<br>Insert at beginning: O(1)<br>Delete at beginning: O(1) | O(n)                           |
 | Depth-First Search (DFS)                | O(V + E)                               | O(V)                             |
 | Breadth-First Search (BFS)              | O(V + E)                               | O(V)                             |
 | Dijkstra's Algorithm                    | O((V + E) log V)                       | O(V)                             |
@@ -211,13 +208,15 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 | Hash Map (Average Case)                 | Insert: O(1)<br>Search: O(1)<br>Delete: O(1) | O(n)                             |
 | Least Recently Used (LRU) Cache         | O(1) for both get and put operations   | O(capacity)                      |
 | Queue (Enqueue and dequeue)             | O(1) for both enqueue and dequeue      | O(n)                      |
+| Hash table (Average Case)               | O(1) for insertion, deletion and search| O(n)                      |
 
 **Notes:**
 - **SLL (Singly Linked List)**: Operations are listed for worst-case complexities.
-- **DFS and BFS**: V is the number of vertices, and E is the number of edges.
+- **DFS and BFS**: V is number of vertices, and E is number of edges.
 - **K-means Clustering**: I is the number of iterations until convergence, and d is the dimensionality of the data.
 - **Interval Scheduling Algorithm**: Assumes sorting intervals by their end times.
 - **LRU Cache**: Capacity denotes the maximum number of items the cache can hold.
+- **Hash:** Worst case will O(n) due to hash collisions
 
 
 ## References
