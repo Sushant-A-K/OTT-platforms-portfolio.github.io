@@ -200,8 +200,8 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 | Depth-First Search (DFS)                | O(V + E)                               | O(V)                             |
 | Breadth-First Search (BFS)              | O(V + E)                               | O(V)                             |
 | Dijkstra's Algorithm                    | O((V + E) log V)                       | O(V)                             |
-| K-means Clustering                      | O(n * k * I * d)<br>where:<br>n = number of data points<br>k = number of clusters<br>I = number of iterations<br>d = dimensionality of data | O(n * k)                         |
-| k-Nearest Neighbors (kNN)               | O(n * d)<br>where:<br>n = number of data points<br>d = dimensionality of data | O(n)                             |
+| K-means Clustering                      | O(n*k*I*d)<br>where:<br>n = number of data points<br>k = number of clusters<br>I = number of iterations<br>d = dimensionality of data | O(n*k)*d)                         |
+| k-Nearest Neighbors (kNN)               | O(n*d*log(n))<br>where:<br>n = number of data points<br>d = dimensionality of data | O(n*d)                             |
 | Round Robin Scheduling                  | O(1) per time quantum                  | O(n)                             |
 | Stack (Push and Pop operations)         | O(1) for both push and pop             | O(n)                             |
 | Interval Scheduling Algorithm           | O(n log n)                             | O(n)                             |
