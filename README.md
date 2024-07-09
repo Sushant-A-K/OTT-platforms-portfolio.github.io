@@ -216,7 +216,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 - **K-means Clustering**: I is the number of iterations until convergence, and d is the dimensionality of the data.
 - **Interval Scheduling Algorithm**: Assumes sorting intervals by their end times.
 - **LRU Cache**: Capacity denotes the maximum number of items the cache can hold.
-- **Hash map and hash table:** Worst case will O(n) due to hash collisions
+- **Hash map and hash table:** Worst case will be O(n) due to hash collisions
 
 
 ## References
