@@ -115,6 +115,9 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
    - **Method:** ML techniques
    - **Algorithm:** K-Nearest Neighbours
    - **Description:** Recommends content based on user preferences and behavior patterns.
+   - <a href="https://www.kaggle.com/code/heeraldedhia/movie-ratings-and-recommendation-using-knn">**Code**</a>
+   - Reference image for recommendation
+   - ![plot](./rev.avif)
 
 2. **Search Optimization**
    - **Data Structure:** Trie
@@ -148,13 +151,13 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
    - **Description:** Predicts future popularity of content based on historical viewing data.
 
 8. **User Segmentation**
-   - **Data Structure:** Clustering (like K-means)
+   - **Data Structure:** Clustering (like <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/kmeans.py">K-means</a>)
    - **Algorithm:** K-means clustering algorithm
    - **Description:** Groups users into segments based on behavior and preferences for targeted marketing and content recommendations.
 
 9. **Load Balancing**
    - **Data Structure:** Queue (for managing incoming requests)
-   - **Algorithm:** Round Robin or Weighted Round Robin
+   - **Algorithm:** <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/round-robin.c">Round Robin</a> or Weighted Round Robin
    - **Description:** Distributes incoming traffic across servers to optimize resource utilization and response times.
 
 10. **Content Caching**
@@ -180,7 +183,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 
 14. **Recently Viewed Content**
     - **Data Structure:** Stack (for storing recently viewed items)
-    - **Algorithm:** Stack operations (push, pop)
+    - **Algorithm:** <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/stack.c">Stack operations</a> (push, pop)
     - **Description:** Displays a list of recently viewed content items for quick access.
 
 15. **Multi-Device Streaming**
