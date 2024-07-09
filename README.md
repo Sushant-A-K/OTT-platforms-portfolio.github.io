@@ -31,7 +31,7 @@ The Over The Top Market size is estimated at USD 0.58 trillion in 2024, and is e
 
 - Over the top (OTT) is a film and television content platform provided via a high-speed internet connection instead of a cable or satellite provider-based platform. OTT adoption has significantly aided the video, music, podcast, and audio streaming category. Increasing adoption can be attributed to narrow genre choices, packaging flexibility, wider device availability, internet penetration, and lower costs. Furthermore, the rising demand for customized content led to significant adoption rates of OTT devices.
 - The availability of high-speed internet connections, such as broadband and 4G/5G mobile networks, has played a crucial role in enabling seamless streaming experiences. While the increase in Internet users is a worldwide trend, regional variances exist.
-<div style='text-align:center;position:relative;font-size:0;width:780px;'><img style='object-fit:cover;width:100%' alt='OTT Market Size & Share Analysis - Growth Trends & Forecasts (2024 - 2029)' src='https://s3.mordorintelligence.com/over-the-top-market/1684242322993_over-the-top-market_Over_the_Top_OTT_Market_-_Growth_Rate_by_Region.png?embed=true'></div>
+<div style='text-align:center;position:relative;font-size:0;width:780px;'><img style="display: block; margin: auto;" alt='OTT Market Size & Share Analysis - Growth Trends & Forecasts (2024 - 2029)' src='https://s3.mordorintelligence.com/over-the-top-market/1684242322993_over-the-top-market_Over_the_Top_OTT_Market_-_Growth_Rate_by_Region.png?embed=true'></div>
 
 ## Objectives
 - Identify Key Functionalities of OTT Platforms.
