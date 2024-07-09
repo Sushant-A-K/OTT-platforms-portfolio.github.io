@@ -110,7 +110,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 ## Business Cases with Data Structures and Algorithms
 1. **Content Recommendation**
    - **Method:** ML techniques
-   - **Algorithm:** K-Nearest Neighbours
+   - **Algorithm:** K-Nearest Neighbours, Content Based filtering and collaborative filtering
    - **Description:** Recommends content based on user preferences and behavior patterns.
    - <a href="https://www.kaggle.com/code/heeraldedhia/movie-ratings-and-recommendation-using-knn">Code</a>
    - Reference image for recommendation
