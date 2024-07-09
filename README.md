@@ -13,6 +13,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Market Analysis](#market-analysis)
 - [Objectives](#objectives)
 - [System Design](#system-design)
 - [Business Cases](#business-cases)
@@ -25,6 +26,12 @@
 
 ## Introduction
 Over-The-Top (OTT) platforms have revolutionized the way we consume media by providing content directly over the internet. Unlike traditional broadcasting, OTT platforms allow users to access a wide range of content, including movies, TV shows, and live events, on-demand. This shift has empowered viewers with greater control over what, when, and how they watch content. Major OTT players like Netflix, Amazon Prime Video, and Disney+ have set new standards for content delivery, quality, and user experience. Programming plays a critical role in the operation and evolution of OTT platforms. It involves the development of algorithms and data structures to manage vast libraries of content and provide seamless, personalized user experiences.
+## Market Analysis
+The Over The Top Market size is estimated at USD 0.58 trillion in 2024, and is expected to reach USD 1.99 trillion by 2029, growing at a CAGR of 28.19% during the forecast period (2024-2029). The Over-the-Top (OTT) market refers to delivering video, audio, and other media content over the Internet directly to users, bypassing traditional distribution channels like cable or satellite television. OTT platforms provide on-demand access to a wide range of content, including movies, TV shows, live events, and original programming.
+
+- Over the top (OTT) is a film and television content platform provided via a high-speed internet connection instead of a cable or satellite provider-based platform. OTT adoption has significantly aided the video, music, podcast, and audio streaming category. Increasing adoption can be attributed to narrow genre choices, packaging flexibility, wider device availability, internet penetration, and lower costs. Furthermore, the rising demand for customized content led to significant adoption rates of OTT devices.
+- The availability of high-speed internet connections, such as broadband and 4G/5G mobile networks, has played a crucial role in enabling seamless streaming experiences. While the increase in Internet users is a worldwide trend, regional variances exist.
+<div style='text-align:center;position:relative;font-size:0;width:780px;'><img style='object-fit:cover;width:100%' alt='OTT Market Size & Share Analysis - Growth Trends & Forecasts (2024 - 2029)' src='https://s3.mordorintelligence.com/over-the-top-market/1684242322993_over-the-top-market_Over_the_Top_OTT_Market_-_Growth_Rate_by_Region.png?embed=true'></div>
 
 ## Objectives
 - Identify Key Functionalities of OTT Platforms.
