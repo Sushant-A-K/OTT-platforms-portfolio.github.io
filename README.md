@@ -117,7 +117,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
    - **Description:** Recommends content based on user preferences and behavior patterns.
    - <a href="https://www.kaggle.com/code/heeraldedhia/movie-ratings-and-recommendation-using-knn">**Code**</a>
    - Reference image for recommendation
-   - ![plot](./rev.avif)
+   - ![plot](./rec.avif)
 
 2. **Search Optimization**
    - **Data Structure:** Trie
