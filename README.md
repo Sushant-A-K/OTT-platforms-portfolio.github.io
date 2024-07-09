@@ -169,7 +169,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 
 12. **Content Categorization**
     - **Data Structure:** Tree (for hierarchical categorization)
-    - **Algorithm:** Tree traversal algorithms (like DFS or BFS)
+    - **Algorithm:** Tree traversal algorithms (like <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/dfs.c">DFS</a> or <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/bfs.c">BFS</a>)
     - **Description:** Organizes content into categories and subcategories for structured browsing and search.
 
 13. **Personalized Notifications**
@@ -216,7 +216,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 - **K-means Clustering**: I is the number of iterations until convergence, and d is the dimensionality of the data.
 - **Interval Scheduling Algorithm**: Assumes sorting intervals by their end times.
 - **LRU Cache**: Capacity denotes the maximum number of items the cache can hold.
-- **Hash:** Worst case will O(n) due to hash collisions
+- **Hash map and hash table:** Worst case will O(n) due to hash collisions
 
 
 ## References
