@@ -233,5 +233,6 @@ The Over The Top Market size is estimated at USD 0.58 trillion in 2024, and is e
 2. <a href="https://dev.to/binoy123/decoding-ott-unraveling-the-architecture-behind-seamless-streaming-36fa">**Decoding OTT: Unraveling the Architecture Behind Seamless Streaming**</a>
 3. <a href="https://medium.com/@digital.vajidkhan/ott-platform-development-choosing-the-right-technology-stack-ad9b82b270d4">**OTT Platform Development: Choosing the Right Technology Stack**</a>
 4. <a href="https://medium.com/@saurabh.codes/system-design-of-youtubes-architecture-ott-over-the-top-platforms-have-increased-video-8326d395f928">**System Design of YouTube’s Architecture**</a>
+5. <a href="https://www.mordorintelligence.com/industry-reports/over-the-top-market">OTT Market Size & Share Analysis - Growth Trends & Forecasts (2024 - 2029)</a>
 
 
