@@ -115,7 +115,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
    - **Method:** ML techniques
    - **Algorithm:** K-Nearest Neighbours
    - **Description:** Recommends content based on user preferences and behavior patterns.
-   - <a href="https://www.kaggle.com/code/heeraldedhia/movie-ratings-and-recommendation-using-knn">**Code**</a>
+   - <a href="https://www.kaggle.com/code/heeraldedhia/movie-ratings-and-recommendation-using-knn">Code</a>
    - Reference image for recommendation
    - ![plot](./rec.avif)
 
@@ -131,7 +131,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 
 4. **Subscription Plan Optimization**
    - **Data Structure:** Decision Tree
-   - **Algorithm:** Decision tree algorithms (like ID3 or C4.5)
+   - **Algorithm:** Decision tree algorithms (like <a href="https://www.geeksforgeeks.org/sklearn-iterative-dichotomiser-3-id3-algorithms/">ID3</a> or C4.5)
    - **Description:** Analyzes user data to recommend optimal subscription plans based on usage patterns.
      ![plot](./sub.png)
 
@@ -176,7 +176,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
     - **Description:** Organizes content into categories and subcategories for structured browsing and search.
 
 13. **Personalized Notifications**
-    - **Data Structure:** Priority Queue (for managing notification priorities)
+    - **Data Structure:** <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/priority.cpp">Priority Queue</a> (for managing notification priorities)
     - **Algorithm:** Notification scheduling algorithms (like Delayed Notification Queue)
     - **Description:** Sends timely notifications to users based on their preferences and activities.
       ![plot](./notif.avif)
@@ -186,11 +186,12 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
     - **Algorithm:** <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/stack.c">Stack operations</a> (push, pop)
     - **Description:** Displays a list of recently viewed content items for quick access.
 
-15. **Multi-Device Streaming**
+15. **Multi-Device Streaming**(Adaptive bitrate streaming)
+    - **Data Structure:** <a href="https://github.com/Sushant-A-K/APS_Codes/blob/main/queue.c">Queues</a>
     - **Algorithm:** Streaming protocols (like HLS or MPEG-DASH)
     - **Description:** Enables seamless streaming across different devices while maintaining playback synchronization.
 
-16. **Transcoding**
+17. **Transcoding**
     - **Algorithm:** Transcoding algorithms like FFmpeg
     - **Description:** Converts media content into different formats to ensure compatibility across various devices and bandwidth conditions.
 
@@ -209,6 +210,7 @@ Over-The-Top (OTT) platforms have revolutionized the way we consume media by pro
 | Interval Scheduling Algorithm           | O(n log n)                             | O(n)                             |
 | Hash Map (Average Case)                 | Insert: O(1)<br>Search: O(1)<br>Delete: O(1) | O(n)                             |
 | Least Recently Used (LRU) Cache         | O(1) for both get and put operations   | O(capacity)                      |
+| Queue (Enqueue and dequeue)             | O(1) for both enqueue and dequeue      | O(n)                      |
 
 **Notes:**
 - **SLL (Singly Linked List)**: Operations are listed for worst-case complexities.
